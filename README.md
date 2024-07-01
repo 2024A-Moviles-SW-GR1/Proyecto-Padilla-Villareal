@@ -1,4 +1,9 @@
-# Historias de Usuario
+# Table of Contents
+1. [Historias de Usuario](#user-stories)
+2. [Base de Datos](#database)
+3. [Prototipo](#prototype)
+
+# Historias de Usuario <a name="user-stories"></a>
 
 ## 1. Registro y Autenticación
 
@@ -33,10 +38,10 @@
 | 7   | Información del Gimnasio | Yo como usuario o visitante potencial, quiero acceder a la información básica sobre el gimnasio para conocer horarios de apertura, servicios ofrecidos, y normas del gimnasio. | Dado que el usuario desea conocer más sobre el gimnasio, cuando el usuario accede a la sección de información del gimnasio, entonces la aplicación debe mostrar horarios, servicios y normas del gimnasio de manera clara.                  | 2 puntos (Scrum Poker) |
 | 8   | Ubicación y Contacto del Gimnasio | Yo como usuario o visitante potencial, quiero ver un mapa interactivo y detalles de contacto del gimnasio para encontrar fácilmente la ubicación del gimnasio y contactar en caso de necesitarlo. | Dado que el usuario necesita ubicarse o contactar al gimnasio, cuando el usuario accede a la sección de ubicación y contacto, entonces la aplicación debe mostrar un mapa interactivo y los detalles de contacto como dirección, número de teléfono y correo electrónico. | 3 puntos (Scrum Poker) |
 
-# Diseño Base de Datos
+# Diseño Base de Datos <a name="database"></a>
 
 ![Image](https://github.com/orgs/2024A-Moviles-SW-GR1/projects/1/assets/71728367/50398cf6-8acc-48d1-ba5b-2edc799d493b)
 
-# Prototipo
+# Prototipo <a name="prototype"></a>
 
 https://www.figma.com/design/TZdCEbF49U8d2s5sYtKHJO/Food-club-App-UI-kit-(Community)?node-id=1402-2&t=O04UIQMjf5zp9nIu-1
